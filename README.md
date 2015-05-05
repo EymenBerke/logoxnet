@@ -17,7 +17,7 @@ Twitter Adresi: https://twitter.com/logoxnet
 
 Facebook Adresi: https://www.facebook.com/logoxnet
 
-Bağış yapıp projenin geliştirilmesinde katkıda bulunabilirsiniz.
+Bağış yapıp projenin geliştirilmesinde katkıda bulunabilirsiniz. http://goo.gl/MwmF3c
 
 logoxnetv1.0.0.6.rar şifresi (günlük): 1523ad616b76a20f70556edc901c6261
 
