@@ -1,12 +1,11 @@
 # logoxnet
-Logoxnet-Engelsiz İnternet!
+Logoxnet-Engelsiz İnternet! 
+(http://www.bilgisayarbilisim.net/network-ag-ve-internet-teknolojileri-f42/logoxnet-engelsiz-internet-t135665.html)
 Yeni versiyon çıkana kadar 24 saatlik çalışan logoxnetv1.0.0.6 la devam edeceğiz: http://bc.vc/DHDVo7
 
 Şifresi: 1523ad616b76a20f70556edc901c6261
 
 Not: logoxnetv1.0.0.6'nın çalışmadığı durumlarda (sertifika süre sonu) yeni sertifikalı paket burada yayınlanmış olacaktır. Takipte kalın.
-
-http://www.bilgisayarbilisim.net/
 
 Kullanımı: http://bc.vc/8suyQC
 
