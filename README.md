@@ -3,9 +3,9 @@ Logoxnet-Engelsiz İnternet! Yeni adresimiz artık burası...
 
 (http://www.bilgisayarbilisim.net/network-ag-ve-internet-teknolojileri-f42/logoxnet-engelsiz-internet-t135665.html)
 
-Yeni versiyon çıkana kadar 24 saatlik çalışan logoxnetv1.0.0.7 la devam edeceğiz: http://bc.vc/DHDVo7
+logoxnetv1.0.0.7 : http://bc.vc/u8CYHT
 
-Şifresi: 1523ad616b76a20f70556edc901c6261
+Şifresi: 1fc1af5c49453d6785e6cb6280f8488b4c3f12a8107e4702710a0462d0a4ca6e
 
 Not: logoxnetv1.0.0.7'nın çalışmadığı durumlarda (sertifika süre sonu) yeni sertifikalı paket burada yayınlanmış olacaktır. Takipte kalın.
 
