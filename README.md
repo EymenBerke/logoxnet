@@ -1,5 +1,5 @@
 # logoxnet
-Logoxnet-Engelsiz İnternet!
+Logoxnet-Engelsiz İnternet! Yeni adresimiz artık burası...
 
 (http://www.bilgisayarbilisim.net/network-ag-ve-internet-teknolojileri-f42/logoxnet-engelsiz-internet-t135665.html)
 
