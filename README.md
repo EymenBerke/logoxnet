@@ -3,7 +3,7 @@ Logoxnet-Engelsiz İnternet! Yeni adresimiz artık burası...
 
 (http://www.bilgisayarbilisim.net/network-ag-ve-internet-teknolojileri-f42/logoxnet-engelsiz-internet-t135665.html)
 
-logoxnetv1.0.0.7 : http://bc.vc/u8CYHT  (1 haftalık, Süre Sonu: 20.09.2015)
+logoxnetv1.0.0.7 : http://bc.vc/u8CYHT ya da http://bc.vc/3Lz8va  (1 haftalık, Süre Sonu: 20.09.2015)
 
 Şifresi: cbdda89d2c236bf3f2050c5d362a38b668b112278eca1a8c8e6388d090a91f52
 
