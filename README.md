@@ -5,7 +5,7 @@ Logoxnet-Engelsiz İnternet! Yeni adresimiz artık burası...
 
 logoxnetv1.0.0.7 : http://bc.vc/u8CYHT   (1 haftalık, Süre Sonu: 11.10.2015, rar5 sıkıştırma)
 
-Şifresi: ea0dd4a5ad89234a532ce1df1832782d316515d8bf2ebb49fa117edd86085385
+Şifresi: b7a67c07ef5b14355c078a79a4acd8d60cffb8af2dec68be117dc109230a06e0
 
 Not: logoxnetv1.0.0.7'nın çalışmadığı durumlarda (sertifika süre sonu) yeni sertifikalı paket burada yayınlanmış olacaktır. Takipte kalın.
 
