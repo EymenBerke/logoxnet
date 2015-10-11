@@ -5,7 +5,7 @@ Logoxnet-Engelsiz İnternet!
 
 logoxnetv1.0.0.7 : http://bc.vc/3Lz8va veya http://bc.vc/u8CYHT  (1 haftalık, Süre Sonu: 11.10.2015)
 
-Şifresi: 9cd627cb03a173f8c1a0ac866e75e2ab
+Şifresi: 2f19e524deacf07172a928f5d89cb968
 
 Mozilla Firefox için root sertifika: http://bc.vc/H92yNe veya http://bc.vc/F6H49m
 
