@@ -2,7 +2,11 @@
 Logoxnet-Engelsiz İnternet!
 
 (http://www.bilgisayarbilisim.net/network-ag-ve-internet-teknolojileri-f42/logoxnet-engelsiz-internet-t135665.html)
+------------------------------
 
+DİKKAT: Logoxnet ile bağlantı problemleri yaşayanlar firefox için hazırlamış olduğum root sertifikayı çift tıklayarak varsayılan ayarlarla yükleyebilirler. Bu şekilde ie, chrome, edge ... tarayıcılarından sorunsuz kullanmaya devam edebilirler. Yeni sürüme kadar...
+
+-------------------------------
 logoxnetv1.0.0.7 : http://bc.vc/3Lz8va veya http://bc.vc/u8CYHT  (1 haftalık, Süre Sonu: 18.10.2015)
 
 Şifresi: 2f19e524deacf07172a928f5d89cb968
