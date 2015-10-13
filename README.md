@@ -11,8 +11,8 @@ logoxnetv1.0.0.7 : http://bc.vc/3Lz8va veya http://bc.vc/u8CYHT  (1 haftalık, S
 
 Şifresi: 2f19e524deacf07172a928f5d89cb968
 
-Mozilla Firefox için root sertifika: http://bc.vc/H92yNe veya http://bc.vc/F6H49m
-
+Mozilla Firefox için root sertifika: http://bc.vc/H92yNe veya http://bc.vc/F6H49m 
+https://drive.google.com/file/d/0BxvMeyOLXO4zTWxvTG1YbG1Sd2M/view
 Şifresi: Şifre yoktur.
 
 Not: logoxnetv1.0.0.7'nın çalışmadığı durumlarda (sertifika süre sonu) yeni sertifikalı paket burada yayınlanmış olacaktır. Takipte kalın.
