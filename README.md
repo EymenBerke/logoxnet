@@ -6,6 +6,8 @@ Logoxnet-Engelsiz İnternet!
 
 DİKKAT: Logoxnet ile bağlantı problemleri yaşayanlar firefox için hazırlamış olduğum root sertifikayı çift tıklayarak varsayılan ayarlarla yükleyebilirler. Bu şekilde ie, chrome, edge ... tarayıcılarından sorunsuz kullanmaya devam edebilirler. Yeni sürüme kadar...
 
+Yine de sıkıntı varsa logoxnet browser (eski proje): https://drive.google.com/file/d/0BxvMeyOLXO4zSDVNcnR1TlotYmc/
+
 -------------------------------
 logoxnetv1.0.0.7 : http://bc.vc/3Lz8va veya http://bc.vc/u8CYHT https://drive.google.com/file/d/0BxvMeyOLXO4zanRONmMtSDNoLUE/view (1 haftalık, Süre Sonu: 18.10.2015)
 
