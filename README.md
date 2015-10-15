@@ -9,15 +9,10 @@ DİKKAT: Logoxnet ile bağlantı problemleri yaşayanlar firefox için hazırlam
 Yine de sıkıntı varsa logoxnet browser (eski proje): https://drive.google.com/file/d/0BxvMeyOLXO4zSDVNcnR1TlotYmc/
 
 -------------------------------
-logoxnetv1.0.0.7 : http://bc.vc/3Lz8va veya http://bc.vc/u8CYHT https://drive.google.com/file/d/0BxvMeyOLXO4zanRONmMtSDNoLUE/view (1 haftalık, Süre Sonu: 18.10.2015)
+logoxnetv1.0.0.7 ve Mozilla Firefox için root sertifika: https://drive.google.com/file/d/0BxvMeyOLXO4zeHBZcDN2UXFreU0/ (1 haftalık, Süre Sonu: 25.10.2015)
 
-Şifresi: 2f19e524deacf07172a928f5d89cb968
+Şifresi: 04938755dade910ca740035904cd89c9
 
-Mozilla Firefox için root sertifika: http://bc.vc/H92yNe veya http://bc.vc/F6H49m 
-https://drive.google.com/file/d/0BxvMeyOLXO4zTWxvTG1YbG1Sd2M/view
-Şifresi: Şifre yoktur.
-
-Not: logoxnetv1.0.0.7'nın çalışmadığı durumlarda (sertifika süre sonu) yeni sertifikalı paket burada yayınlanmış olacaktır. Takipte kalın.
 
 Bağış yapıp projenin geliştirilmesinde katkıda bulunabilirsiniz. http://goo.gl/MwmF3c
 
