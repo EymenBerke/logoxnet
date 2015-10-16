@@ -12,7 +12,7 @@ Yine de sıkıntı varsa logoxnet browser (eski proje): https://drive.google.com
 logoxnetv1.0.0.7 ve Mozilla Firefox için root sertifika: https://drive.google.com/file/d/0BxvMeyOLXO4zRmdndGwwelBNc0k/ 
 (1 haftalık, Süre Sonu: 25.10.2015)
 
-Md5 ve Şifresi: 04938755dade910ca740035904cd89c9
+Md5 ve Şifresi: fc32bd6abc947f51d344386a126edacc
 
 
 Bağış yapıp projenin geliştirilmesinde katkıda bulunabilirsiniz. http://goo.gl/MwmF3c
