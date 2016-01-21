@@ -1,3 +1,6 @@
+Proje askıda, şimdilik, bekleyin... 21/01/2016
+
+
 # logoxnet
 Logoxnet-Engelsiz İnternet!
 
